@@ -3,3 +3,5 @@ Learning Git is going well so far.
 Trying to learn Git
 Procceed
 Testing.
+Continue Testing Procedure.
+Today still Gitting
