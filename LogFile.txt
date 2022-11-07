@@ -1,0 +1,71 @@
+commit eeddd2b4e7f7a5b829424d0585a2ccb82bf9644b
+Author: katsoulas.a.s@gmail.com <myName@email.com>
+Date:   Wed Nov 2 11:55:18 2022 +0200
+
+    exercise2
+
+commit 27ba329df60c8bb9013c2670c2f542a0c69730c7
+Author: katsoulas.a.s@gmail.com <myName@email.com>
+Date:   Wed Nov 2 11:53:16 2022 +0200
+
+    exercise
+
+commit 3fe1ec2e74169918d2b650f5a4c8913bb5a5e8d2
+Author: katsoulas.a.s@gmail.com <myName@email.com>
+Date:   Wed Nov 2 11:34:36 2022 +0200
+
+    added gitignore 2
+
+commit 2eb85b31f56be6c963faaf4ebb83a930d49d88e7
+Author: katsoulas.a.s@gmail.com <myName@email.com>
+Date:   Wed Nov 2 11:24:38 2022 +0200
+
+    added gitignore
+
+commit ecf320b797e5216727cf9e35eeca7c1c96d4e593
+Author: katsoulas.a.s@gmail.com <myName@email.com>
+Date:   Mon Oct 31 21:19:53 2022 +0200
+
+    Gitting
+
+commit 6e135aca69ff70823537a2c2baf5bba67f300abb
+Author: katsoulas.a.s@gmail.com <myName@email.com>
+Date:   Mon Oct 31 16:34:14 2022 +0200
+
+    New File 1
+
+commit 87a1fcfff19d733c751a70528e6a934325191c74
+Author: katsoulas.a.s@gmail.com <myName@email.com>
+Date:   Mon Oct 31 16:23:29 2022 +0200
+
+    New File 2
+
+commit c1dd27cfc6db779765afca1fececbd6f8361a1a3
+Author: katsoulas.a.s@gmail.com <myName@email.com>
+Date:   Sun Oct 30 23:14:57 2022 +0200
+
+    TestingGit
+
+commit f6c0d18ce0ce929a01518fd9fb1a978fdb79712d
+Author: katsoulas.a.s@gmail.com <myName@email.com>
+Date:   Sun Oct 30 23:09:26 2022 +0200
+
+    ProcceedGit Line
+
+commit b694108de8bc2c3377f665d7cd8ab1a5612dc1c7
+Author: katsoulas.a.s@gmail.com <myName@email.com>
+Date:   Sun Oct 30 23:07:32 2022 +0200
+
+    TryingGit Line
+
+commit f4d48f616f5b299699cd4643fe2303e00fa804f6
+Author: katsoulas.a.s@gmail.com <myName@email.com>
+Date:   Sun Oct 30 22:55:17 2022 +0200
+
+    LearningGit Line
+
+commit d47f964663942b184ef70e87d281204189eb22b1
+Author: katsoulas.a.s@gmail.com <myName@email.com>
+Date:   Sun Oct 30 22:48:20 2022 +0200
+
+    added readUs.txt
