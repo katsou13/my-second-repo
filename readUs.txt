@@ -12,5 +12,9 @@ PAO OSFP 1-1 ME PENALTY
 Today still Gitting 
 >>>>>>> my-new-feature
 
-PAO-OSFP 1 1 ME PENALTY
+<<<<<<< HEAD
+PAO OSFP 1-1 ME PENALTY
+=======
+PAO OSFP 1-1 ME PENALTY
+>>>>>>> my-new-feature
 
