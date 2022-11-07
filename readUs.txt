@@ -4,8 +4,13 @@ Trying to learn Git
 Procceed
 Testing.
 Continue Testing Procedure.
+<<<<<<< HEAD
 Today still Gitting
 
 PAO OSFP 1-1 ME PENALTY 
+=======
+Today still Gitting 
+>>>>>>> my-new-feature
 
+PAO-OSFP 1 1 ME PENALTY
 
