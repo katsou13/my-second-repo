@@ -1,1 +1,0 @@
-tipota kai ola
