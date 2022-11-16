@@ -28,4 +28,4 @@ Ukraine's Foreign Minister Dmytro Kuleba said earlier that any claim that Ukrain
 
 Polish President Andrzej Duda told reporters that it remained unclear how the blast had occurred and said investigators were evaluating all possibilities.
 
-"We do not have any conclusive evidence at the moment as to who launched this missile… it was most likely a Russian-made missile, but this is all still under investigation at the moment," he said.
+"We do not have any conclusive evidence at the moment as to who launched this missile… it was most likely a Russian-made missile, but this is all still under investigation at the moment," he sa
